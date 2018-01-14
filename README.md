@@ -1,5 +1,9 @@
 # ml.js - Machine learning tools in JavaScript
 
+## What the fork?
+
+This fork introduces multi-threaded decision tree classification. Not yet implemented, but stay tuned!
+
 ## Introduction
 
 This library is a compilation of the tools developed in the [mljs](https://github.com/mljs) organization.  
